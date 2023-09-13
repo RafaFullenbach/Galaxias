@@ -1,6 +1,7 @@
 # Galaxias
 
-O intuito deste projeto foi o aprendizado de HTML e CSS básicos, iniciando com o Grid do CSS.## Aprendizado
+O intuito deste projeto foi o aprendizado de HTML e CSS básicos, iniciando com o Grid do CSS.
+## Aprendizado
 
 - Grid;
 - Grid Template Columns;
